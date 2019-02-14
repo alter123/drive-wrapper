@@ -1,0 +1,10 @@
+eventlet
+flask
+flask-socketio
+gunicorn
+pymongo
+pydrive
+requests
+requests-html
+rq
+newspaper3k
