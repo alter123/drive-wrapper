@@ -7,6 +7,11 @@ This project aims to provide static storage using google drive as an alternative
 
 !['Diagram'](https://github.com/jayvasantjv/drive-wrapper/blob/master/static/images/diagram.png)
 
+TODO
+----
+* Uploading News Data of last 12 years [The Hindu Archive](https://www.thehindu.com/archive/) to google drive.
+* Cron job to update data daily.
+
 License
 ----
 
