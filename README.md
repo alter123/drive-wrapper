@@ -9,7 +9,7 @@ This project aims to provide static storage using google drive as an alternative
 
 TODO
 ----
-* Uploading News Data of last 12 years [The Hindu Archive](https://www.thehindu.com/archive/) to google drive.
+* Uploading News Data of last 12 years from [The Hindu Archive](https://www.thehindu.com/archive/) to google drive.
 * Cron job to update data daily.
 
 License
