@@ -1,0 +1,10 @@
+{
+    "name": "drive-wrapper",
+    "description": "Persistent Storage Solution for Ephermal type Storage using Google Drive",
+    "repository": "https://github.com/jayvasantjv/drive-wrapper",
+    "logo": "http://my-redis.herokuapp.com/static/images/favicon.png",
+    "keywords": ["pydrive", "flask-socketio", "threading"],
+    "addons": [
+        "redistogo"
+      ]
+  }
